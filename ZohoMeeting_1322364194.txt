@@ -1,0 +1,77 @@
+Chiefmentor Fintech Council : ROBO-ADVISORY
+
+● Robo Advisory
+● Automating Investment rules
+● ML/AI in Robo-advisory
+● Robo-advisory Platforms and Architecture
+● Building a Robo Advisory Platform
+● Unicorns of Robo-advisory and business models
+● State of Robo-advisory in India
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : yes sir
+Chiefmentor Fintech Council : Robo-advisory refers to digital platforms that provide automated, algorithm-driven financial planning services with minimal human intervention. A typical robo-advisor collects information from clients about their financial situation and future goals through an online survey, then uses the data to offer advice and/or automatically invest client assets.
+2100031934_Rohini Pandiri : Sir, an electro-mechanical device that can perform autonomous or preprogrammed tasks
+Chiefmentor Fintech Council : Automating Investment Rules
+Automating investment rules involves creating algorithms that make investment decisions based on predefined criteria. These rules can be based on various factors, such as asset allocation, risk tolerance, and investment horizon. The key benefits include:
+
+Consistency: Ensuring investment decisions are consistent and free from emotional bias.
+Efficiency: Processing large amounts of data quickly and efficiently.
+Scalability: Managing multiple portfolios simultaneously without significant increases in cost.
+Chiefmentor Fintech Council : ML/AI in Robo-advisory
+Machine Learning (ML) and Artificial Intelligence (AI) play crucial roles in enhancing the capabilities of robo-advisors:
+
+Predictive Analytics: Using historical data to predict market trends and investment performance.
+Personalization: Customizing investment advice based on individual user preferences and behaviors.
+Risk Management: Identifying and mitigating risks by analyzing market conditions and user portfolios.
+Continuous Improvement: Learning from new data to improve decision-making algorithms over time.
+2100031934_Rohini Pandiri : Sir, How do professionals use these systems?
+2100031990_Ajay Bodapati : It is given "Continuous Improvement: Learning from new data to improve decision-making algorithms over time." But sir, once code is deployed in blockchain its immutable and how can we change the algorithm sir.
+2100031990_Ajay Bodapati : Ok sir, I understood now.
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : does that mean all these tasks are done by the robo without the backend?
+2100031934_Rohini Pandiri : Sir, What factors influence the adoption rate of ML/AI-driven financial services among different demographics?
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : ok sir
+Chiefmentor Fintech Council : Robo-advisory Platforms and Architecture
+A typical robo-advisory platform comprises several components:
+
+Client Onboarding: Collecting user information and assessing risk tolerance.
+Portfolio Management: Allocating assets based on investment strategies.
+Algorithmic Trading: Executing trades automatically according to the investment rules.
+User Interface: Providing a user-friendly interface for clients to interact with the platform.
+Compliance and Reporting: Ensuring adherence to regulatory requirements and generating reports for clients.
+2100031934_Rohini Pandiri : Sir, What technologies are used to power robo-advisory platforms?
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : yyes sir
+2200030622_SILLAGANESH : YES SIR
+2200030281_G.Meghana : clear sir
+2200032478_Sure Jaya Sai Krishna : Clear sir
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : is it just like an AI client sir?
+Chiefmentor Fintech Council : Building a Robo-Advisory Platform
+To build a robo-advisory platform, the following steps are involved:
+
+Define Objectives and Scope: Identify the target market and the range of services to be offered.
+Develop Algorithms: Create and test algorithms for asset allocation, risk management, and trading.
+Build the Technology Stack: Develop the backend infrastructure, including databases, servers, and APIs.
+Design the User Interface: Create a user-friendly interface for client interaction.
+Ensure Compliance: Implement features to comply with financial regulations and standards.
+Test and Launch: Conduct thorough testing to ensure the platform works as intended before launching.
+Chiefmentor Fintech Council : Unicorns of Robo-advisory and Business Models
+Several robo-advisory platforms have achieved unicorn status (valuation over $1 billion), such as:
+
+Betterment: Known for its user-friendly platform and focus on personalized financial advice.
+Wealthfront: Offers tax-optimized investment strategies and financial planning tools.
+Acorns: Focuses on micro-investing by rounding up everyday purchases to the nearest dollar and investing the spare change.
+Common business models include:
+
+AUM Fee: Charging a percentage of assets under management.
+Subscription Fee: Charging a fixed monthly or annual fee.
+Freemium: Offering basic services for free while charging for premium features.
+State of Robo-advisory in India
+Robo-advisory in India is gaining traction, driven by increasing internet penetration and digital literacy. Key players include:
+
+Fisdom: Provides personalized investment advice and tax-saving strategies.
+Sqrrl: Focuses on mutual fund investments with an easy-to-use mobile app.
+Scripbox: Offers goal-based investing and financial planning tools.
+2100031934_Rohini Pandiri : Sir, How do we incorporate user feedback into ongoing platform improvements?
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : what is AUM fee sir
+2100031934_Rohini Pandiri : Sir, How does Marketing and User Acquisition will work ?
+2200030515_SRI_VENKAT_ARAVIND_KODAMANCHILI : ok sir
+2100031934_Rohini Pandiri : Sir, out of the box i am asking, how they will launch after the creation of robo sir
+
